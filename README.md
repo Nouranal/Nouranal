@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NouranPhysics
+- 👋 Hi, I’m @Nouranal
 - 👀 I’m interested in Astrophysics
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on astrophysics research projects
